@@ -12,7 +12,9 @@
   <br/>
 </div>
 
-Hello, I’m Cagdas Bilgin, a software developer with a background in game development and a strong interest in backend development. I have hands-on knowledge of .NET, ASP.NET Core, Node.js, Express.js, Entity Framework Core, RESTful APIs, SQL, and MongoDB. I enjoy building scalable, well-structured systems, learning new technologies, and improving myself every day. I’m now looking to grow as a backend developer and contribute to projects with clean, maintainable, and efficient solutions.
+Hello, I’m Cagdas Bilgin, a software developer with a background in game development and a strong interest in backend development. I have hands-on knowledge of Java Spring, .NET, ASP.NET Core, Node.js, Express.js, Entity Framework Core, RESTful APIs, SQL, and MongoDB.
+
+I enjoy building scalable, well-structured systems, learning new technologies, and improving myself every day. I hold a Bachelor's degree in Computer Engineering and have a deep passion for AI engineering, software engineering, and game development. I’m now looking to grow as a backend developer and contribute to projects with clean, maintainable, and efficient solutions.
 
 **Bachelor's degree in Computer Engineering**, with a deep passion for AI engineering, software engineering and game development.
 
