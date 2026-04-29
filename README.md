@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Cagdas Bilgin</h1>
-  <code>Backend</code> • <code>MERN Stack</code> • <code>.NET</code> • <code>Unity</code> • <code>Game Dev</code>
+  <code>Backend</code> • <code>Spring Boot</code> • <code>MERN Stack</code> • <code>.NET</code> • <code>Unity</code> • <code>Game Dev</code>
   <br/>
   <br/>
   <div >
